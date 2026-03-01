@@ -1,0 +1,13 @@
+{
+  "itemGroup.infiniterailway": "Example Mod Tab",
+  "block.infiniterailway.example_block": "Example Block",
+  "item.infiniterailway.example_item": "Example Item",
+
+  "infiniterailway.configuration.title": "InfiniteRailway Configs",
+  "infiniterailway.configuration.section.infiniterailway.common.toml": "InfiniteRailway Configs",
+  "infiniterailway.configuration.section.infiniterailway.common.toml.title": "InfiniteRailway Configs",
+  "infiniterailway.configuration.items": "Item List",
+  "infiniterailway.configuration.logDirtBlock": "Log Dirt Block",
+  "infiniterailway.configuration.magicNumberIntroduction": "Magic Number Text",
+  "infiniterailway.configuration.magicNumber": "Magic Number"
+}
